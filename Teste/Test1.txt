@@ -1,0 +1,11 @@
+The size of array: 10
+Execution time: 24 microseconds
+
+Unordered array: 
+86 89 13 55 83 72 38 71 34 86 
+
+Ordered array: 
+13 34 38 55 71 72 83 86 86 89 
+
+Ordered array with single occurrence of the element: 
+34 38 55 71 72 83 86 89 

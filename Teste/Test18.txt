@@ -1,0 +1,2 @@
+The size of array: 5000000
+Execution time: 3619932 microseconds

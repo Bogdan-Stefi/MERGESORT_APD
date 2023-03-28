@@ -1,0 +1,11 @@
+The size of array: 10
+Execution time: 10 microseconds
+
+Unordered array: 
+29786 6360 12701 898 27752 15458 31011 5830 29785 24989 
+
+Ordered array: 
+898 5830 6360 12701 15458 24989 27752 29785 29786 31011 
+
+Ordered array with single occurrence of the element: 
+5830 6360 12701 15458 24989 27752 29785 29786 31011 
